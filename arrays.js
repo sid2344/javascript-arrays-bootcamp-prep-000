@@ -6,5 +6,5 @@ function destructivelyAddElementToBeginningOfArray(chocolateBars, element){
   chocolateBars.push("foo");
 }
 function accessElementInArray(array, index){
-  
+  arr[3];
 }
