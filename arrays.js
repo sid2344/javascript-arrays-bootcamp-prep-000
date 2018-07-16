@@ -5,3 +5,4 @@ function addElementToBeginningOfArray(chocolateBars, element){
 function destructivelyAddElementToBeginningOfArray(chocolateBars, element){
   chocolateBars.push("foo");
 }
+function 
